@@ -1,0 +1,8 @@
+cd /Volumes/boot 
+  501  ls
+  502  cd /Users/hey2/Desktop/LastBlackBox/course/bootcamp/day_3/resources/connecting/boot 
+  503  nano wpa_supplicant.conf 
+  509  /sbin/ifconfig
+  510  nmap -sP 192.168.149.89
+  511  arp -a
+  512  ssh pi@192.168.149.219
